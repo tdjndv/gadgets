@@ -42,5 +42,3 @@ while True:
         print("Correct!")
     else:
         print("The correct answer is " + correct)
-
-print("this is a branch information")
